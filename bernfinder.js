@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         ttvtest
+// @name         bernfinder
 // @namespace    https://tampermonkey.net/
 // @version      0.1
-// @description  ttvtesting
+// @description  bernfinder
 // @author       zurlocke
 // @include      https://twitter.com/*
 // @updateURL    https://raw.githubusercontent.com/zurlocke/bernfinder/master/bernfinder.js
